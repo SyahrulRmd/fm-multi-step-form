@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://fm-multi-step-form-3gckcizno-syahrulrmd.vercel.app/)
+- Live Site URL: [Live Site](https://fm-multi-step.vercel.app/)
 
 ## My process
 
