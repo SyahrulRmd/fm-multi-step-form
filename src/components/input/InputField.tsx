@@ -5,7 +5,7 @@ interface InputFieldProps extends InputHTMLAttributes<HTMLInputElement> {
     isError: boolean
 }
 
-export const InputField = forwardRef<HTMLInputElement, InputFieldProps>((props, ref) => {
+export const InputField = forwardRef<HTMLInputElement, InputFieldProps>((props) => {
     return (
         <div className='flex flex-col gap-2'>
             <label htmlFor={props.id} className='text-marine-blue'>
